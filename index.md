@@ -1,4 +1,4 @@
-## Welcome to the Replicable Smart City GitHub Site
+## Welcome to the Replicable Smart City Technologies GitHub Site
 
 You can use the [editor on GitHub](https://github.com/ReplicableSmartCity/ReplicableSmartCity.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
